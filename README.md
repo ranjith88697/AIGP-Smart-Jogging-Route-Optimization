@@ -14,4 +14,10 @@ Amil Thomas (Role – Data Analyst & Visualization Specialist)|
 |Collected and pre-processed data sets|
 |Prepared plots|
 |Calculation results|
+
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 	
