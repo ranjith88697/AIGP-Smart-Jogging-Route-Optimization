@@ -1,7 +1,7 @@
 Smart-Jogging-Route-Optimization
 
 |Content|
-________
+|________|
 |Project Title|	Smart Jogging Route Recommender|
 |Description|	This project aims to develop a model to train and recommends jogging tracks in Riga based on real-time weather, air quality, and crowd density. The model will help users choose optimal routes for health, comfort, and safety, using public APIs and geospatial data.|
 |Contributors|	Ranjith Radhakrishnan (Backend Developer), 
