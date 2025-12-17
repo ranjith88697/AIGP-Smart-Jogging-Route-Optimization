@@ -1,0 +1,42 @@
+Consolidated Meeting minutes  – Project Planning
+Date: 12 october 2025 to till date
+
+Attendees: Amil Thomas, Ranjith Radhakrishnan, Sachumon Puthenpuraickkal Sajeev
+
+Agenda:
+
+•	Finalization of project title and problem statement 
+•	Identification of key objectives and expected outcomes 
+•	Discussion on urban running challenges and pollution impact 
+•	Selection of data sources (GIS, AQI APIs, OpenStreetMap) 
+•	Choice of technology stack (Python, Streamlit, ML libraries) 
+•	Machine learning model selection and justification 
+•	Routing and graph-based pathfinding approach discussion 
+•	Task distribution among team members 
+•	Timeline planning and milestone definition 
+•	Risk identification and mitigation strategies 
+•	Documentation and portfolio structure planning 
+•	Agreement on evaluation criteria and success metrics
+
+Decisions:
+
+•	The project will focus on optimizing jogging routes by combining distance, environmental safety, and route quality.
+•	The application will be developed as a web-based system using Streamlit.
+•	Google Maps APIs will be used for geocoding and location services.
+•	Google Air Quality API will be integrated for real-time AQI data.
+•	OpenStreetMap data via OSMnx will be used for graph-based routing.
+•	A Random Forest Regressor will be used to score jogging path segments.
+•	Loop-based route generation will be implemented to meet target distances.
+•	Plotly will be used for interactive maps and pollution visualization.
+•	GitHub will serve as the public repository for the project portfolio.
+
+Action Items:
+
+•	Ranjith: Design and implement the core backend logic, including route generation, graph construction using OSMnx, and integration of AQI data.
+•	Ranjith: Develop and train the Random Forest machine learning model for scoring jogging path segments.
+•	Amil Thomas: Collect, preprocess, and document geographic and air quality data used in the application.
+•	Amil Thomas: Create pollution heatmaps and assist with visualization of environmental data.
+•	Sachumon Puthenpuraickkal Sajeev: Design the Streamlit-based user interface and implement user input handling and layout styling.
+•	Sachumon Puthenpuraickkal Sajeev: Assist with testing the application and improving usability based on feedback.
+•	Entire Team: Prepare meeting minutes, maintain process documentation, and update the GitHub project portfolio regularly.
+•	Entire Team: Prepare interim presentations, collect feedback, and incorporate suggested improvements into the project.
