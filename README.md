@@ -1,4 +1,5 @@
-Smart-Jogging-Route-Optimization
+Module Title : Artificial Intelligence Group Project
+Module Leader : Dmitry Pavlyuk
 
 | Content | Description |
 | --------- | --------- |
